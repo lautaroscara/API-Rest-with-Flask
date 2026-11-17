@@ -22,4 +22,3 @@ returns meaningful HTTP status codes for each case.
    pip install -r requirements.txt
    ```
 4. Set the database password and start the app:
-   ```bash
